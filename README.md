@@ -72,7 +72,7 @@ For example, It doesn’t matter if it’s test.txt
 
 library is ```pip install mslang``` Please proceed with the pip library installation!
 
-pypi link : https://pypi.org/project/sjlang/
+pypi link : https://pypi.org/project/mslang/
 
 # 한국어
 # 정신나간 언어
@@ -141,4 +141,4 @@ test.txt여도 상관 X
 
 라이브러리는 ```pip install mslang``` 로 설치후 진행해주세요!
 
-pypi 링크 : https://pypi.org/project/sjlang/
+pypi 링크 : https://pypi.org/project/mslang/
